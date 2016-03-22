@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+hugo && rsync -avz --delete public/  advancedxy@yexianjin.com:~/blog

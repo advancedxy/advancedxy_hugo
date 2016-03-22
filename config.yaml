@@ -1,0 +1,28 @@
+baseURL: "http://advancedxy.com"
+disablePathToLower: true
+copyright: "(c) 2012 - 2016 advancedxy.com"
+languageCode: en-us
+title: Exploring the world
+author:
+    name: "Xianjin YE"
+    email: "advancedxy@gmail.com"
+theme: "hyde-y"
+disqusShortname: advancedxy
+params:
+
+    sidebar: left
+
+    highlight: solarized_dark
+    author: advancedxy
+    github: advancedxy
+    twitter: advancedxy
+
+blackfriday:
+    angledQuotes: true
+    fractions: false
+    hrefTargetBlank: false
+    latexDashes: true
+    plainIdAnchors: true
+    extensions:
+    extensionmask:
+... 
