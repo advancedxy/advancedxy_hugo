@@ -1,6 +1,6 @@
-baseURL: "http://advancedxy.com"
+baseURL: "http://advancedxy.com/"
 disablePathToLower: true
-copyright: "(c) 2012 - 2016 advancedxy.com"
+copyright: "(c) 2012 - 2017 advancedxy.com"
 languageCode: en-us
 title: Exploring the world
 author:
@@ -8,6 +8,7 @@ author:
     email: "advancedxy@gmail.com"
 theme: "hyde-y"
 disqusShortname: advancedxy
+hasCJKLanguage: true
 params:
 
     sidebar: left
