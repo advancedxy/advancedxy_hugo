@@ -3,7 +3,7 @@ author = "Ye, Xianjin"
 date = "2017-05-30T21:39:01+08:00"
 description = "Kotlin Introduction Slide"
 keywords = ["Kotlin"]
-tags = ["Kotlin"]
+tags = ["kotlin"]
 title = "Introduction to Kotlin"
 type = "post"
 +++
